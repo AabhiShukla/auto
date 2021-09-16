@@ -1,1 +1,1 @@
-This repo is for testing the QA portal
+This repo is for testing the QA portal.
