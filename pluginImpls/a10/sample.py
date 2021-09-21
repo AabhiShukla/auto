@@ -1,2 +1,3 @@
 
-print("This is the sample filr for plugin a10")
+print("This is the sample file for plugin a10")
+print("demo")
